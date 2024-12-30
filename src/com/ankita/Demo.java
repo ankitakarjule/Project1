@@ -12,6 +12,7 @@ public class Demo {
 		list.add("adv java");
 		list.add("collection framework");
 		list.add("jdbc");
+		list.add("hibernate");
 		for(String str:list)
 		{
 			System.out.println(str);
